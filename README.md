@@ -2,7 +2,7 @@
 
 A beginner-friendly MongoDB project created to learn and practice database operations, MongoDB Shell commands, and MongoDB integration with Node.js.
 
-## 📌 About the Project
+ About the Project
 
 This project covers the fundamental concepts of MongoDB, including:
 
@@ -15,7 +15,7 @@ This project covers the fundamental concepts of MongoDB, including:
 - MongoDB integration with Node.js
 - Using the MongoDB Node.js Driver
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - MongoDB
 - MongoDB Shell (mongosh)
@@ -24,7 +24,7 @@ This project covers the fundamental concepts of MongoDB, including:
 - MongoDB Node.js Driver
 - VS Code
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```text
 MongoDB/
